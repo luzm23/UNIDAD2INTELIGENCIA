@@ -1,4 +1,4 @@
-NombreCompleto= "JeronimaRoqueCaballero"
+NombreCompleto= "LuzMariaMendozaCortes"
 Carrera = "Ingeniería en Sistemas"
 Semestre = 8
 Materia = "inteligencia Artificial"
